@@ -3,3 +3,5 @@
 //add second line on branch1.
 //add one line from branch3_learnGit2
 //add one line on master branch.
+//add third line on branch1 for the second time.
+//add fourth line on branch1.
