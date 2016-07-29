@@ -6,3 +6,5 @@
 //add third line on branch1 for the second time.
 //add fourth line on branch1.
 //Add a line to test push from local private branch to remote master automatically.
+
+//add one line for 20160730 001
