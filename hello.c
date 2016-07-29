@@ -8,3 +8,4 @@
 //Add a line to test push from local private branch to remote master automatically.
 
 //add one line for 20160730 001
+//add one line for 20160730 002
