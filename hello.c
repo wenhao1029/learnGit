@@ -16,3 +16,27 @@
 
 //add one line for 20180504 001
 //add one line for 20180504 002
+
+#include <stdio.h>
+#include <stdlib.h>
+#include "hello.h"
+
+int var1 = 1;
+
+
+int main(void) {
+  int var2 = 2;
+  int var3 = var1 +1;
+  
+  printf("hello, world!\n");
+  
+  func();
+  
+  exit(0);
+}
+
+void func(void)
+{
+	printf("Hello!");
+	return;
+}
