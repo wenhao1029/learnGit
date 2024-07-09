@@ -35,6 +35,8 @@ int main(void) {
   func();
   
   exit(0);
+
+  //add some comments on 20240709.
 }
 
 void func(void)
